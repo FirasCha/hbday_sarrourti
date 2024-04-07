@@ -11,7 +11,7 @@ function App() {
         <Routes>
           <Route path='/hbday_sarrourti' element={<MenuHappyBirthday/>}></Route>
           <Route path='/hbday_sarrourti/happyBirthdayVideo' element={<HappyBirthdaySlides/>}></Route>
-          <Route path='/messageBirthday' element={<MessageBirthday/>}></Route> 
+          <Route path='/messagebirthday' element={<MessageBirthday/>}></Route> 
         </Routes>
       </BrowserRouter>
     </div>
