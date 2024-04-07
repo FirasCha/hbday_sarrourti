@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/hbday_sarrourti/static/css/main.239b7400.css",
-    "main.js": "/hbday_sarrourti/static/js/main.7ac2dbca.js",
+    "main.js": "/hbday_sarrourti/static/js/main.6c534b07.js",
     "static/js/453.67d24850.chunk.js": "/hbday_sarrourti/static/js/453.67d24850.chunk.js",
     "static/media/bday.gif": "/hbday_sarrourti/static/media/bday.0bb14860f9bc2eb0016f.gif",
     "static/media/giftBox.gif": "/hbday_sarrourti/static/media/giftBox.679246f2f2fc3b1ad5a6.gif",
     "static/media/2109430_e6b77.gif": "/hbday_sarrourti/static/media/2109430_e6b77.c68a353825a74d530a2d.gif",
     "index.html": "/hbday_sarrourti/index.html",
     "main.239b7400.css.map": "/hbday_sarrourti/static/css/main.239b7400.css.map",
-    "main.7ac2dbca.js.map": "/hbday_sarrourti/static/js/main.7ac2dbca.js.map",
+    "main.6c534b07.js.map": "/hbday_sarrourti/static/js/main.6c534b07.js.map",
     "453.67d24850.chunk.js.map": "/hbday_sarrourti/static/js/453.67d24850.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.239b7400.css",
-    "static/js/main.7ac2dbca.js"
+    "static/js/main.6c534b07.js"
   ]
 }
