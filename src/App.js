@@ -1,23 +1,19 @@
-import logo from './logo.svg';
+import HappyBirthdaySlides from './component/component/HappyBirthdaySlides';
+import MenuHappyBirthday from './component/component/MenuHappybirthday'
+import MessageBirthday from './component/component/MessageBirthday.js'
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+    <BrowserRouter>
+        <Routes>
+          <Route path='/' element={<MenuHappyBirthday/>}></Route>
+          <Route path='/happyBirthdayVideo' element={<HappyBirthdaySlides/>}></Route>
+          <Route path='/messageBirthday' element={<MessageBirthday/>}></Route> 
+        </Routes>
+      </BrowserRouter>
     </div>
   );
 }
