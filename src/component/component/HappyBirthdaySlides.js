@@ -22,11 +22,10 @@ const HappyBirthdaySlides = () => {
           <iframe
             title="My Video"
             width="100%"
-            height="100%"
+            height="950px"
             src="https://drive.google.com/file/d/150wBnDMhkG6L1ZwoM--ZRmilsxmOdIws/preview"
             frameborder="0"
             allow="autoplay; encrypted-media"
-            allowfullscreen
       ></iframe>
         </div>
       )
