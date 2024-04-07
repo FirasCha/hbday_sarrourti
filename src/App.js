@@ -10,8 +10,8 @@ function App() {
     <BrowserRouter>
         <Routes>
           <Route path='/hbday_sarrourti' element={<MenuHappyBirthday/>}></Route>
-          <Route path='/happyBirthdayVideo' element={<HappyBirthdaySlides/>}></Route>
-          <Route path='/messageBirthday' element={<MessageBirthday/>}></Route> 
+          <Route path='/hbday_sarrourti/happyBirthdayVideo' element={<HappyBirthdaySlides/>}></Route>
+          <Route path='/hbday_sarrourti/messageBirthday' element={<MessageBirthday/>}></Route> 
         </Routes>
       </BrowserRouter>
     </div>

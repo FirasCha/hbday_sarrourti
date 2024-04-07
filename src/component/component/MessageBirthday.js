@@ -35,9 +35,9 @@ const MessageBirthday = () => {
 
             <strong>With all my love,</strong><br/> Firas<br/>
             Let's click on one of the hearts and sing together.<br/>
-            <a href="/happyBirthdayVideo"><img src={box} width={60} alt="loading..." /></a>
-            <a href="/happyBirthdayVideo"><img src={box} width={60} alt="loading..." /></a>
-            <a href="/happyBirthdayVideo"><img src={box} width={60} alt="loading..." /></a>
+            <a href="/hbday_sarrourti/happyBirthdayVideo"><img src={box} width={60} alt="loading..." /></a>
+            <a href="/hbday_sarrourti/happyBirthdayVideo"><img src={box} width={60} alt="loading..." /></a>
+            <a href="/hbday_sarrourti/happyBirthdayVideo"><img src={box} width={60} alt="loading..." /></a>
             
             </div>
     )
