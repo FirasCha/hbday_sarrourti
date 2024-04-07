@@ -9,7 +9,7 @@ function App() {
     <div>
     <BrowserRouter>
         <Routes>
-          <Route path='/' element={<MenuHappyBirthday/>}></Route>
+          <Route path='/hbday_sarrourti' element={<MenuHappyBirthday/>}></Route>
           <Route path='/happyBirthdayVideo' element={<HappyBirthdaySlides/>}></Route>
           <Route path='/messageBirthday' element={<MessageBirthday/>}></Route> 
         </Routes>
