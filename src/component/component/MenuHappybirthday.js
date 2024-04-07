@@ -11,7 +11,7 @@ const MenuHappybirthday = () => {
                     <h3>My dear pretty Sarsour, may god bless you with abundant joy on your birthday and always! 🎊<br />
                         Thank you for always being by my side and having my back.💖<br/>
                         Sending you an infinite amount of love, joy, and happiness on your birthday!🎂<br/>
-                        Let's click this box after reading <br/><a href="/messageBirthday"><img src={box} width={60} alt="loading..." />   </a>
+                        Let's click this box after reading <br/><a href="/messagebirthday"><img src={box} width={60} alt="loading..." />   </a>
                     </h3>
                 </div>
             </div>
